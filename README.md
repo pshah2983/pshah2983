@@ -1,7 +1,7 @@
  
 🔥Hi there, I'm Parva Shah 👋
 
-⭐About Me
+⭐ About Me
 I am currently pursuing a Master of Science in Engineering Data Science at the University of Houston, 
 where I am honing my skills in data-driven decision-making and advanced analytical techniques. My academic 
 journey has equipped me with a robust foundation in Data Science, Artificial Intelligence, and Machine Learning, 
@@ -15,14 +15,13 @@ and implement data-centric solutions that address pressing issues across various
 My commitment to continuous learning drives me to stay abreast of emerging technologies and methodologies
 in the field, ensuring that I remain at the forefront of advancements in data science and artificial intelligence
 
-⭐Skills
-
+⭐ Skills
 - 🌟 Python
 - 🌟 Data Analysis
 - 🌟 Vibe Coding
 - 🌟 Data Visualization
 
-⭐Projects
+⭐ Projects
 Here are a few projects I've worked on:
 ➡️Recipe Chatbot
 - (https://github.com/pshah2983/Recipe-Chatbot-) - A sophisticated retrieval-based chatbot that helps users discover and explore Indian recipes.
@@ -35,8 +34,9 @@ Here are a few projects I've worked on:
 - Data Visualization: Matplotlib, Seaborn
 - Natural Language Processing: NLTK, Python-Levenshtein
 
-⭐Get in Touch
+⭐ Get in Touch
 - 📫 Email: sparva078@gmail.com
 - LinkedIn : (https://www.linkedin.com/in/parva-shah-71210a21a/)
-Feel free to reach out if you want to collaborate on a project or just want to chat!
+
+👉 Feel free to reach out if you want to collaborate on a project or just want to chat!
 
