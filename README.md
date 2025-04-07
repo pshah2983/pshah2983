@@ -23,8 +23,10 @@ in the field, ensuring that I remain at the forefront of advancements in data sc
 
 ⭐ Projects
 Here are a few projects I've worked on:
+
 ➡️Recipe Chatbot
 - (https://github.com/pshah2983/Recipe-Chatbot-) - A sophisticated retrieval-based chatbot that helps users discover and explore Indian recipes.
+  
 ➡️Economic Indicator Dashboard
 - (https://github.com/pshah2983/Economic-Indicators-dashboard) - An interactive web-based dashboard that visualizes and compares key economic indicators across different countries using World Bank data.
 ⭐ Technologies
