@@ -25,16 +25,37 @@ in the field, ensuring that I remain at the forefront of advancements in data sc
 Here are a few projects I've worked on:
 
 ➡️Recipe Chatbot
-- (https://github.com/pshah2983/Recipe-Chatbot-) - A sophisticated retrieval-based chatbot that helps users discover and explore Indian recipes.
+- (https://github.com/pshah2983/Recipe-Chatbot-)
+- An intelligent retrieval-based chatbot designed to assist users in discovering and exploring a wide range of Indian recipes. Leveraging advanced natural language processing techniques, the chatbot understands user queries and retrieves relevant recipes from a comprehensive database. It provides detailed information on ingredients, cooking instructions, and nutritional values, enhancing the user's culinary experience.
   
+⭐ Technologies
+- Natural Language Processing: NLTK, spaCy, Python-Levenshtein
+- Chatbot Framework: ChatterBot
+- Data Handling: JSON, Pandas
+- User Interface: Command-line interface
+- Recipe Data: Kaggle Indian recipe dataset
+
 ➡️Economic Indicator Dashboard
-- (https://github.com/pshah2983/Economic-Indicators-dashboard) - An interactive web-based dashboard that visualizes and compares key economic indicators across different countries using World Bank data.
+- (https://github.com/pshah2983/Economic-Indicators-dashboard)
+- An interactive web-based dashboard designed to visualize and compare key economic indicators across different countries using data sourced from the World Bank. This dashboard provides a user-friendly interface to explore trends, analyze performance, and gain insights into the economic health of nations. Users can select specific indicators, compare countries, and view historical data through interactive charts and graphs, making it an invaluable tool for economists, researchers, and anyone interested in global economic analysis.
+  
 ⭐ Technologies
 - Data Science: Pandas, NumPy
 - Machine Learning: Scikit-learn
 - Web Development: Flask, Streamlit
 - Data Visualization: Matplotlib, Seaborn
 - Natural Language Processing: NLTK, Python-Levenshtein
+
+➡️ Drone Detection System
+
+(https://github.com/pshah2983/Drone-Detection-System) 
+- A real-time system for detecting drones in images and video streams using YOLOv8. Fine-tuned on a custom dataset, it achieves high accuracy and efficient CPU inference.
+
+⭐ Technologies 
+- Computer Vision: OpenCV
+- Deep Learning: YOLOv8 (Ultralytics PyTorch)
+- Data Science: NumPy, Pandas
+- Inference: Real-time video processing
 
 ⭐ Get in Touch
 - 📫 Email: sparva078@gmail.com
